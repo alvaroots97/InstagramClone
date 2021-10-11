@@ -10,9 +10,15 @@ User can log in and log out of his or her account
 
 User can take a photo, add a caption, and post it to "Instagram" 
 
+User can view the last 20 posts submitted to "Instagram"
 
+The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View.
 
-<img src="instagram-walkthrough.gif" width=250><br>
+### Strech Histories
+
+User sees app icon in home screen and styled bottom navigation view.
+
+<img src="instagram2-walkthrough.gif" width=250><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
